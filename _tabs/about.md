@@ -29,11 +29,11 @@ I am a master's student from College of Information and Electrical Engineering, 
 
 ## Awards 
 
-- ``Second-Class Scholarship for Master's Degree Students | China Agricultural University (CAU) | 2024``
-- ``Beijing University of Technology Outstanding Graduate | Beijing University of Technology (BJUT) | 2024``
-- ``Finalist Award in the Mathematical Contest in Modeling (MCM) | **Top 2%** | Consortium for Mathematics and its Applications (COMAP) | 2023``
-- ``First Prize in Beijing Area, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) | **Top 9%** | China Society for Industrial and Applied Mathematics (CSIAM) | 2022``
-- ``Academic Excellence Award | Beijing University of Technology (BJUT) | 2021~2023``
+- Second-Class Scholarship for Master's Degree Students \ | China Agricultural University (CAU) \ | 2024
+- Beijing University of Technology Outstanding Graduate \ | Beijing University of Technology (BJUT) \ | 2024
+- Finalist Award in the Mathematical Contest in Modeling (MCM) \ | **Top 2%** \ | Consortium for Mathematics and its Applications (COMAP) \ | 2023
+- First Prize in Beijing Area, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) \ | **Top 9%** \ | China Society for Industrial and Applied Mathematics (CSIAM) \ | 2022
+- Academic Excellence Award \ | Beijing University of Technology (BJUT) \ | 2021~2023
 
 
 ## Contact  
