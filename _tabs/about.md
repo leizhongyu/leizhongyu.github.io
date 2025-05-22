@@ -4,8 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# About Me  
-
 I am a master's student from College of Information and Electrical Engineering, China Agricultural University, majoring in Computer Science. My research interests lie in Geographic Information Science and Big Data Applications in Agricultural Machinery, and I am supervised by Associate Professor Weixin Zhai.
    
 
