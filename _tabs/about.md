@@ -12,13 +12,13 @@ I am a master's student from College of Information and Electrical Engineering, 
 ## Education  
 
 ### China Agricultural University (CAU)
-**Master of Computer Science | Expected Graduation: 2024~2027**  
+**Master of Computer Science | Expected Graduation: 2027**  
 - Supervisor: Associate Professor Weixin Zhai
 - Research Interests: Geographic Information Science and Big Data Applications in Agricultural Machinery
 - Laboratory: Key Laboratory of Agricultural Machinery Monitoring and Big Data Applications, Ministry of Agriculture and Rural Affairs, Beijing, People’s Republic of China
 
 ### Beijing University of Technology (BJUT)
-**Bachelor of Computer Science (Honors) | 2020~2024**  
+**Bachelor of Computer Science (Honors) | 2024**  
 - GPA: 92.08/100 (**Top 2%** of Class)  
 
 
