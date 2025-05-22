@@ -23,16 +23,17 @@ I am a master's student from College of Information and Electrical Engineering, 
 ## Skills  
 
 - **Programming Languages**: Python, C++, MATLAB, R  
-- **Frameworks & Software**: PyTorch, ArcGIS Pro, QGIS   
+- **Frameworks & Software**: PyTorch, ArcGIS Pro, QGIS
+- **Language Skill**: CET-6 (556)
   
 
 ## Awards 
 
-- <code>Second-Class Scholarship for Master's Degree Students | China Agricultural University (CAU) | 2024</code>
-- <code>Beijing University of Technology Outstanding Graduate | Beijing University of Technology (BJUT) | 2024</code> 
-- <code>Finalist Award in the Mathematical Contest in Modeling (MCM) | **Top 2%** | Consortium for Mathematics and its Applications (COMAP) | 2023</code>
-- <code>First Prize in Beijing Area, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) | **Top 9%** | China Society for Industrial and Applied Mathematics (CSIAM) | 2022</code>
-- <code>Academic Excellence Award | Beijing University of Technology (BJUT) | 2021~2023</code>
+- ``Second-Class Scholarship for Master's Degree Students | China Agricultural University (CAU) | 2024``
+- ``Beijing University of Technology Outstanding Graduate | Beijing University of Technology (BJUT) | 2024``
+- ``Finalist Award in the Mathematical Contest in Modeling (MCM) | **Top 2%** | Consortium for Mathematics and its Applications (COMAP) | 2023``
+- ``First Prize in Beijing Area, Contemporary Undergraduate Mathematical Contest in Modeling (CUMCM) | **Top 9%** | China Society for Industrial and Applied Mathematics (CSIAM) | 2022``
+- ``Academic Excellence Award | Beijing University of Technology (BJUT) | 2021~2023``
 
 
 ## Contact  
