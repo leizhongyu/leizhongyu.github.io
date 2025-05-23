@@ -161,7 +161,11 @@ I am a master's student from College of Information and Electrical Engineering, 
 
 ## Contact  
 
-- **Email**: zylei1124@163.com, leizhongyu@cau.edu.cn
+<ul class="fa-ul">
+<li><span class="fa-li"><i class="fa-solid fa-location-dot"></i></span>Haidian, Beijing, China</li>
+<li><span class="fa-li"><i class="fa-solid fa-envelope"></i></span>leizhongyu@cau.edu.cn, zylei1124@163.com</li>
+<li><span class="fa-li"><i class="fa-brands fa-github"></i></span>https://github.com/leizhongyu</li>
+</ul>
 
 
 
