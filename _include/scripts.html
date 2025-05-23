@@ -1,0 +1,35 @@
+<!-- _includes/scripts.html -->
+{%- comment -%} 加载 JavaScript 文件 {%- endcomment -%}
+
+<script src="{{ '/assets/js/dist/theme.js' | relative_url }}"></script>
+
+{% if page.mermaid %}
+  <script src="https://cdn.jsdelivr.net/npm/mermaid@10.2.4/dist/mermaid.min.js"></script>
+  <script>
+    mermaid.initialize({
+      startOnLoad: true,
+      theme: "{{ site.theme_config.mermaid_theme | default: 'default' }}"
+    });
+  </script>
+{% endif %}
+
+{% if page.math %}
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+{% endif %}
+
+{% if site.search.provider and page.layout == 'post' %}
+  <script>
+    addEventListener('load', function() {
+      if (typeof Mark === 'function') {
+        var mark = new Mark(document.querySelectorAll('.post-content'));
+        var query = new URLSearchParams(window.location.search).get('q');
+        if (query) {
+          mark.highlight(query, {
+            element: 'span',
+            className: 'search-highlight'
+          });
+        }
+      }
+    });
+  </script>
+{% endif %}
